@@ -66,11 +66,22 @@ Documentação Google Workspace
 
 ### Resultado
 
-Foi gerado um resumo geral do conteúdo com os conceitos centrais.
+O NotebookLM identificou e resumiu os principais temas abordados nas fontes analisadas:
+
+1. Aprendizagem ativa e sua importância no processo de ensino.
+2. Diferenças entre aprendizagem ativa e aprendizagem passiva.
+3. Taxonomia KSA (Conhecimentos, Habilidades e Atitudes).
+4. Características de professores eficazes em ambientes de aprendizagem ativa.
+5. Técnica Think-Pair-Share para estimular a participação dos alunos.
+6. Princípios da Ciência da Aprendizagem Ativa.
+7. Funcionalidades e aplicações do NotebookLM.
+8. Uso do Gemini para produtividade no Google Workspace.
+9. Conceitos fundamentais de Engenharia de Prompts.
+10. Desenvolvimento e uso responsável da Inteligência Artificial.
 
 ### Dificuldade Encontrada
 
-As respostas ficaram muito amplas.
+Alguns tópicos foram apresentados de forma muito resumida, exigindo consultas adicionais às fontes originais para aprofundamento.
 
 ---
 
@@ -80,11 +91,11 @@ As respostas ficaram muito amplas.
 
 ### Resultado
 
-A IA produziu uma explicação mais simples e didática.
+A IA apresentou explicações simplificadas sobre os principais conceitos estudados, utilizando linguagem acessível e exemplos práticos. Foram abordados temas como Aprendizagem Ativa, NotebookLM, Engenharia de Prompts, IA Generativa e ferramentas de produtividade baseadas em Inteligência Artificial.
 
 ### Dificuldade Encontrada
 
-Alguns conceitos técnicos ainda precisaram de exemplos adicionais.
+Apesar da simplificação, alguns conceitos ainda continham termos técnicos que exigiram solicitações adicionais de exemplos e explicações mais detalhadas.
 
 ---
 
@@ -94,11 +105,22 @@ Alguns conceitos técnicos ainda precisaram de exemplos adicionais.
 
 ### Resultado
 
-Foram geradas questões úteis para revisão e fixação.
+O NotebookLM gerou perguntas de revisão relacionadas aos seguintes temas:
+
+- Diferença entre aprendizagem ativa e passiva.
+- Domínios da taxonomia KSA (Conhecimentos, Habilidades e Atitudes).
+- Características de um professor eficaz em ambientes ativos.
+- Funcionamento da técnica Think-Pair-Share.
+- Princípios da Ciência da Aprendizagem Ativa.
+- Aplicações do NotebookLM como ferramenta de estudo e pesquisa.
+- Uso do Gemini para aumentar a produtividade no Google Workspace.
+- Conceito e importância da Engenharia de Prompts.
+- Técnicas avançadas como Zero-Shot Prompting, Few-Shot Prompting e Chain-of-Thought.
+- Princípios de IA Responsável adotados pelo Google.
 
 ### Dificuldade Encontrada
 
-Algumas perguntas eram repetitivas.
+Algumas respostas geradas eram muito objetivas e exigiram aprofundamento por meio da leitura das fontes utilizadas para melhor compreensão dos conceitos.
 
 ---
 
